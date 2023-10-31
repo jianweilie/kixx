@@ -21,4 +21,7 @@ Desktop.ini # Windows desktop icon settings
 *.log   # Log files
 .parcer-cache/*
 .vscode
-node-modules
+node_modules
+.parcel-cache
+build
+dist
